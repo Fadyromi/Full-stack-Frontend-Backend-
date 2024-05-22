@@ -1,0 +1,55 @@
+.container{
+    background-image:url(../img/012.jpg);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 100vh;
+}
+h1 {
+    font-size: 70px;
+}
+.btn{
+ 
+   position: absolute;
+   top: 410px;
+   right: 570px;
+   width: 200px;
+}
+p{
+    top: 470px;
+    width: 80%;
+    right: 140px;
+   
+}
+.bodyimg {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 150px;
+
+    bottom: 260px;
+    
+
+    
+}
+.bodyimg {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left: 150px;
+
+    bottom: 260px;
+    display: none;
+    
+}
+.bodyimg2 {
+    position: absolute;
+    width: 70px;
+    height: 70px;
+    left:1050px;
+
+    bottom: 260px;
+    display: none;
+    
+}
+
